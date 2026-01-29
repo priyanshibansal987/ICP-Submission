@@ -1,0 +1,13 @@
+1)EASY Buy and sell stocks 
+    https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/1892938246
+2)EASY  Find the Index of the First Occurrence in a String.(Leetcode no.-28)
+     https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/submissions/1606173265
+3)3SUM  (LeetCode No. 15)
+     https://leetcode.com/problems/3sum/submissions/1516693657
+
+4)Count Prime ( LEET code no.204)
+     https://leetcode.com/problems/reverse-linked-list/submissions/1446638235
+5)HARD-  First Missing Positive  (leetcode no.41)
+     https://leetcode.com/problems/first-missing-positive/submissions/1828067929
+6)HARD   Median of Two Sorted Arrays (LEET code no.4)
+     https://leetcode.com/problems/median-of-two-sorted-arrays/submissions/1892963941

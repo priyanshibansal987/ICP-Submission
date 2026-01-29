@@ -1,0 +1,12 @@
+1)EASY    Minimum String Length After Removing Substrings (leetcodde no 2696)
+      https://leetcode.com/problems/minimum-string-length-after-removing-substrings/submissions/1889576291
+2)EASY    Make The String Great  (leetcodde no 1544)
+      https://leetcode.com/problems/make-the-string-great/submissions/1889592521
+3)MEDIUM    Sum of Subarray Minimums  (leetcodde no 907) 
+     https://leetcode.com/problems/sum-of-subarray-minimums/submissions/1890565280
+4)MEDIUM    Maximum Subarray Min-Product
+     https://leetcode.com/problems/maximum-subarray-min-product/submissions/1900480854
+5)HARD    Minimum Number of Increments on Subarrays to Form a Target Array
+      https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array/submissions/1891816079
+6)HARD    Smallest K-Length Subsequence With Occurrences of a Letter.
+      https://leetcode.com/problems/smallest-k-length-subsequence-with-occurrences-of-a-letter/submissions/1891993689
